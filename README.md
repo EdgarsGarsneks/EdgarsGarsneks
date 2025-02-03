@@ -14,6 +14,6 @@ You can find the list of blog posts below:
 
 | Date | Title  | Link |
 | ----- | ---- | ----------- |
-| 2025-02-03 | Festive introduction to Genetic Algorithm — Treasure Hunting | [Medium](https://medium.com/gitconnected/genetic-algorithm-1-max-52fef8a975c7) |
+| 2025-02-03 | Festive introduction to Genetic Algorithm — Treasure Hunting | [Medium](https://medium.com/gitconnected/genetic-algorithm-1-max-52fef8a975c7?source=github.com) |
 |2024-12-17 | Functional Java 1 — Functional Interfaces | [Medium](https://medium.com/gitconnected/functional-java-1-functional-interfaces-226a73bc8a80?source=github.com) 
 | 2024-12-03 | When Mounting a Shelf Turns Into a VR Adventure | [Medium](https://medium.com/gitconnected/when-mounting-a-shelf-turns-into-a-vr-adventure-8ed830d4c4cb?source=github.com) <br> [Blog](https://blog.garsneks.dev/posts/overengineering-shelf/)
